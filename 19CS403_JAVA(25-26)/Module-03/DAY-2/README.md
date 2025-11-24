@@ -11,15 +11,15 @@ In the main() method, demonstrate the use of each overloaded method with various
 To demonstrate method overloading by finding the maximum of two integers, two doubles, and three integers.
 
 ## ALGORITHM :
-1.Start the program and accept inputs for two integers, two doubles, and three integers from the user.
-
+1. Start the program and accept inputs for two integers, two doubles, and three integers from the user.
+  
 2. Create an object of the MaxFinder class which contains three overloaded max() methods.
  
-3.Call the appropriate max() method based on the type and number of inputs provided.
+4. Call the appropriate max() method based on the type and number of inputs provided.
  
-4.  Compute the maximum value using conditional operators inside each overloaded method.
+5. Compute the maximum value using conditional operators inside each overloaded method.
  
-5. Display the maximum results for all three method calls.
+6. Display the maximum results for all three method calls.
 
 ## PROGRAM:
  ```
@@ -75,5 +75,6 @@ public class Main {
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
 
