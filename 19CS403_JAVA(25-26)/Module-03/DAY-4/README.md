@@ -80,8 +80,10 @@ public class Main {
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+<img width="1228" height="277" alt="image" src="https://github.com/user-attachments/assets/c5b7df03-3ef0-40da-9b1a-b87348276628" />
+
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
 
